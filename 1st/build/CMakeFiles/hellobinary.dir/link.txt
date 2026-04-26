@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hellobinary.dir/main.c.o CMakeFiles/hellobinary.dir/src/calc.c.o -o hellobinary  lib/libwifi_lib.a 

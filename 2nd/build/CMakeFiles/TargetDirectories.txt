@@ -1,0 +1,14 @@
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/hellobinary.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/edit_cache.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/rebuild_cache.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/list_install_components.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/install.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/install/local.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/CMakeFiles/install/strip.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/wifi_lib.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/edit_cache.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/rebuild_cache.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/list_install_components.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/install.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/install/local.dir
+/home/zhero/projects/CmakeTutorial/2nd/build/lib/CMakeFiles/install/strip.dir

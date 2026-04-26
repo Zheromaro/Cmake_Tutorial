@@ -1,0 +1,6 @@
+/home/zhero/projects/CmakeTutorial/1st/build/CMakeFiles/hellobinary.dir
+/home/zhero/projects/CmakeTutorial/1st/build/CMakeFiles/edit_cache.dir
+/home/zhero/projects/CmakeTutorial/1st/build/CMakeFiles/rebuild_cache.dir
+/home/zhero/projects/CmakeTutorial/1st/build/lib/CMakeFiles/wifi_lib.dir
+/home/zhero/projects/CmakeTutorial/1st/build/lib/CMakeFiles/edit_cache.dir
+/home/zhero/projects/CmakeTutorial/1st/build/lib/CMakeFiles/rebuild_cache.dir
